@@ -1,8 +1,8 @@
 The project uses 77 GHz and 120 GHz FMCW radar for non-contact vital sign detection and aims to find the optimal vital sign detection method.
 
-Project equipment:
-77GHz radar system(AWR1642+DCA1000EVM);
-120GHz radar system(SiRad Easy r4 EvalKit).
+##Project equipment:  
+77GHz radar system(AWR1642+DCA1000EVM);  
+120GHz radar system(SiRad Easy r4 EvalKit).  
                   
 Project procedures:
 (1)Collect samples(store in 'bin'file)
