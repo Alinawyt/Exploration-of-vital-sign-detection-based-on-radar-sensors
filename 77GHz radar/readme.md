@@ -1,4 +1,4 @@
-### mmwave_studio_02_00_00_00 folder  
+### configure_file folder  
 Configuration script of 77GHz radar's mmwave_studio software    
 ### filter77.mlx  
 use digital filter for vital signs extraction  
